@@ -10,6 +10,9 @@ export const metadata: Metadata = {
   title: "Sally Face 2 Wiki — Release Date, Trailers, Gameplay Guide",
   description: "Complete guide to Sally Face 2, covering release date, platforms, gameplay, trailers, and everything announced by Portable Moose.",
   keywords: "Sally Face 2, Steam, horror game, Portable Moose, release date, gameplay, trailer",
+  verification: {
+    google: "9T4FjiSCQFPf7naPS6kYOm882uoqAU-7YLsXe7agcyk",
+  },
 };
 
 export default function RootLayout({
